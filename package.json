@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kripken/xml.js"
+    "url": "https://github.com/redmedical/xml.js"
   },
   "author": "kripken",
   "contributors": [
@@ -30,6 +30,6 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kripken/xml.js/issues"
+    "url": "https://github.com/redmedical/xml.js/issues"
   }
 }
